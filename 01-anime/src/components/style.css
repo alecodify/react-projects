@@ -1,0 +1,152 @@
+.cards {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+}
+
+.card {
+    cursor: pointer;
+    background-color: transparent;
+    height: 300px;
+    perspective: 1000px;
+}
+
+.card h1 {
+    font-size: 25px;
+    border-bottom: 1px #fff solid;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.card img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+.card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+}
+
+.card:hover .card-inner {
+    transform: rotateY(180deg);
+}
+
+.card-front,
+.card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+
+.card-back {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    transform: rotateY(180deg);
+}
+
+.card li {
+    list-style: none;
+    padding-bottom: 10px;
+}
+
+.selected-character {
+    border: 1px solid #ccc;
+    padding: 20px 20px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    background: #f9f9f9;
+    color: #333;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.selected-details {
+    display: flex;
+    gap: 10px;
+}
+
+.profile-img {
+    width: 200px;
+    height: auto;
+}
+
+.extras {
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: center; */
+    gap: 20px;
+}
+
+.extra-item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    background: #fff;
+    width: 32%;
+}
+
+.extra-img {
+    width: 100%;
+    height: auto;
+}
+
+.btn {
+    display: flex;
+    color: #fff;
+    background-color: #3fb573;
+    font-size: 1em;
+    text-align: center;
+    padding: 10px 15px;
+    border: 0;
+    cursor: pointer;
+    margin: 10px auto;
+}
+
+.btn:hover {
+    background-color: #f0aa29;
+}
+
+
+@media (max-width: 800px) {
+    .cards {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .extras {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+        width: 100%;
+    }
+
+    .extra-item {
+        width: 70%;
+    }
+}
+
+@media (max-width: 500px) {
+    .cards {
+        grid-template-columns: 1fr;
+    }
+
+    .extras {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+        width: 100%;
+    }
+
+    .extra-item {
+        width: 70%;
+    }
+}

@@ -1,0 +1,78 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  background: #f1f5f8;
+  color: #102a42;
+}
+
+.section {
+  width: 90vw;
+  margin: 0 auto;
+  max-width: 40rem;
+  margin-top: 5rem;
+  text-align: center;
+}
+
+.section h3 {
+  text-transform: uppercase;
+  color: #063351;
+}
+
+.form {
+  text-transform: capitalize;
+  letter-spacing: 0.1rem;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form label {
+  font-size: 1.25rem;
+  color: #063351;
+}
+
+.form input {
+  padding: 0.25rem 0.5rem;
+  width: 4rem;
+  border-radius: var(--radius);
+  border: none;
+  margin: 0 0.5rem;
+  font-size: 1.25rem;
+}
+
+.btn {
+  text-transform: uppercase;
+  background: #49a6e9;
+  color: #063351;
+  padding: 0.375rem 0.75rem;
+  letter-spacing: 1px;
+  display: inline-block;
+  transition: all 0.3s linear;
+  font-size: 0.875rem;
+  border: 2px solid #49a6e9;
+  cursor: pointer;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  border-radius: 0.25rem;
+}
+
+.btn:hover {
+  color: #49a6e9;
+  background: #a5d5f8;
+  border-color: #a5d5f8;
+}
+
+button {
+  background: #ebf7ff;
+}
+
+.lorem-text {
+  margin-bottom: 4rem;
+}

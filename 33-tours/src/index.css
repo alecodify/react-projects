@@ -1,0 +1,116 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+body {
+  background: #f1f5f8;
+  color: #102a42;
+  line-height: 1.5;
+  font-size: 0.9rem;
+}
+
+.btn {
+  background: #39a6e9;
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  text-transform: capitalize;
+  color: #fff;
+  letter-spacing: 0.1rem;
+  border-color: transparent;
+  cursor: pointer;
+  margin-top: 2rem;
+  font-size: 1.2rem;
+}
+
+main {
+  width: 90vw;
+  max-width: 1170px;
+  margin: 0 auto;
+  padding-top: 5rem;
+  min-height: 100vh;
+}
+
+.loading {
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 4rem;
+  text-transform: uppercase;
+}
+
+.underline {
+  width: 6rem;
+  height: 0.25rem;
+  background: #4916e9;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tour {
+  background: #fff;
+  border-radius: 0.25rem;
+  margin: 2rem 0;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s linear;
+}
+
+.tour:hover {
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.tour img {
+  width: 100%;
+  height: 20rem;
+  object-fit: cover;
+  border-top-right-radius: 0.25rem;
+  border-top-left-radius: 0.25rem;
+}
+
+.info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+.info h4 {
+  margin-bottom: 0;
+}
+
+.tour button {
+  background: transparent;
+  border-color: transparent;
+  text-transform: capitalize;
+  color: #39a6e9;
+  font-size: 1rem;
+  cursor: pointer;
+  padding-left: 0.25rem;
+}
+
+.price {
+  color: #39a6e9;
+  background: #ebf7ff;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+}
+
+.tour footer {
+  padding: 1.5rem 2rem;
+}
+
+.tour .delete-btn {
+  display: block;
+  width: 200px;
+  margin: 1rem auto 0 auto;
+  color: #ff2525;
+  letter-spacing: 0.1rem;
+  background: transparent;
+  border: 1px solid #ff2525;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+}

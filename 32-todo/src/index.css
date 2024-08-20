@@ -1,0 +1,36 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+  background-color: rgb(80, 128, 230);
+  min-height: 100vh;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+  color: #f0f8ff;
+}
+
+.items {
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+.list-group-item {
+  word-wrap: break-word;
+}
+
+.float-end {
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .list-group-item {
+    font-size: 0.9rem;
+  }
+}

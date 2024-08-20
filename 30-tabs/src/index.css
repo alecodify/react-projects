@@ -1,0 +1,150 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+body {
+  background: #f1f5f8;
+  color: #102a42;
+  line-height: 1.5;
+  font-size: 0.9rem;
+}
+
+.section {
+  width: 90vw;
+  max-width: 1170px;
+  padding: 5rem 0;
+  margin: 0 auto;
+  min-height: 100vh;
+  user-select: none;
+}
+
+.loading {
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+  font-size: 2rem;
+}
+
+.underline {
+  width: 20%;
+  height: 0.25rem;
+  margin-bottom: 1.75rem;
+  margin-left: auto;
+  margin-right: auto;
+  background: #2caeba;
+}
+
+.container {
+  width: 80vw;
+  margin: 0 auto;
+  max-width: 1170px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 3rem;
+}
+
+.job-btn {
+  background: transparent;
+  border-color: transparent;
+  text-transform: capitalize;
+  letter-spacing: 0.1rem;
+  font-size: 1.5rem;
+  margin: 0 0.5rem;
+  cursor: pointer;
+  transition: all 0.3s linear;
+  padding: 0.25rem 0;
+  line-height: 1;
+  outline-color: #e0fcff;
+}
+
+.job-btn:hover {
+  color: #2caeba;
+  box-shadow: 0 2px #2caeba;
+}
+
+.active-btn {
+  color: #2caeba;
+  box-shadow: 0 2px #2caeba;
+}
+
+.info h3 {
+  font-weight: 400;
+}
+
+.info h4 {
+  text-transform: uppercase;
+  display: inline-block;
+  padding: 0.375rem 0.75rem;
+  border-radius: 0.25rem;
+  background:#dae2ec;
+  color: #617d98;
+}
+
+.job-date {
+  letter-spacing: 0.1rem;
+}
+
+.job-box {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  column-gap: 2rem;
+  margin-bottom: 1.25rem;
+  align-items: center;
+}
+
+.job-box p {
+  margin-bottom: 0;
+  color: #324d67;
+}
+
+.icon {
+  color: #2caeba;
+}
+
+.btn {
+  text-transform: uppercase;
+  padding: 0.375rem 0.75rem;
+  letter-spacing: 0.1rem;
+  font-weight: 700;
+  font-size: 0.9rem;
+  cursor: pointer;
+  border-radius: 0.25rem;
+  text-align: center;
+  width: 12rem;
+  margin: 0 auto;
+  margin-top: 3rem;
+  display: block;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  border: 2px solid transparent;
+  transition: all 0.3s linear;
+  -webkit-transition: all 0.3s linear;
+  color: #bff8fd;
+  background: #2caeba;
+}
+
+.btn:hover {
+  color: #044e53;
+  background: #88ebf2;
+}
+
+@media (max-width: 560px) {
+  .title{
+    font-size: 1rem;
+  }
+
+  .job-btn {
+    font-size: 1rem;
+    margin: 0 0.4rem;
+    padding: 0.1rem 0;
+  }
+}

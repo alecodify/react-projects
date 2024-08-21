@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@media (max-width: 586px) {
+    .tableClass {
+        overflow-x: scroll;
+        width: 85vw;
+        display: flex;
+    }
+}

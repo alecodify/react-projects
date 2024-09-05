@@ -38,16 +38,16 @@ To run this project locally, follow these steps:
 Once the server is running, you can access the application in your browser at http://localhost:5173.
 
 ## Demo
-<video width="100%" controls>
-  <source src="./screenshots/vedio.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the demo video](./screenshots/vedio.mp4)
+
 
 ## Screenshots
 <img src="./screenshots/1.png" width=100%>
 <img src="./screenshots/2.png" width=100%>
+<div style="display: flex; flex-direction: 'row';">
 <img src="./screenshots/3.jpg" width=30%>
 <img src="./screenshots/4.jpg" width=30%>
+</div>
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.

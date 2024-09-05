@@ -23,6 +23,7 @@ This repository contains a variety of beginner-to-intermediate-level web develop
 | 14  | [Google Keep Clone](https://github.com/alecodify/react-projects/tree/main/14-google-keep-clone)  |  [Details](https://github.com/alecodify/react-projects/blob/main/14-google-keep-clone/readme.md)      |
 | 15  | [Grocery Bud](https://github.com/alecodify/react-projects/tree/main/15-grocery-bud)  |  [Details](https://github.com/alecodify/react-projects/blob/main/15-grocery-bud/readme.md)      |
 | 16  | [Hacker News](https://github.com/alecodify/react-projects/tree/main/16-hacker-news)  |  [Details](https://github.com/alecodify/react-projects/blob/main/16-hacker-news/readme.md)      |
+| 17  | [Image Finder](https://github.com/alecodify/react-projects/tree/main/17-image-finder)  |  [Details](https://github.com/alecodify/react-projects/blob/main/17-image-finder/readme.md)      |
 
 ## Installation
 

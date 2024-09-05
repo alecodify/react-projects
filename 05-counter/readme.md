@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
 Once the server is running, you can access the application in your browser at http://localhost:5173.
 
 ## Demo
-[Watch the demo video](./screenshots/vedio.mp4)
+[Watch the demo video](https://github.com/user-attachments/assets/b4c2c682-ca36-47c6-86f6-da3cb4aa6ac5)
 
 
 ## Screenshots

@@ -13,7 +13,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
 ```bash
-  git clone https://github.com/whyyali/React-Projects.git
+  git clone https://github.com/alecodify/React-Projects.git
 ```
 
 2. **Navigate to the project directory:**

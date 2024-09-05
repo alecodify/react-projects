@@ -28,6 +28,7 @@ This repository contains a variety of beginner-to-intermediate-level web develop
 | 19  | [Markdown Editor and Preview](https://github.com/alecodify/react-projects/tree/main/19-markdown-editor-and-preview)  |  [Details](https://github.com/alecodify/react-projects/blob/main/19-markdown-editor-and-preview/readme.md)      |
 | 20  | [Menu](https://github.com/alecodify/react-projects/tree/main/20-menu)  |  [Details](https://github.com/alecodify/react-projects/blob/main/20-menu/readme.md)      |
 | 21  | [Navigation](https://github.com/alecodify/react-projects/tree/main/21-navigation)  |  [Details](https://github.com/alecodify/react-projects/blob/main/21-navigation/readme.md)      |
+| 22  | [Pagination](https://github.com/alecodify/react-projects/tree/main/22-pagination)  |  [Details](https://github.com/alecodify/react-projects/blob/main/22-pagination/readme.md)      |
 
 ## Installation
 

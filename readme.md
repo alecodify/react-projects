@@ -18,6 +18,7 @@ This repository contains a variety of beginner-to-intermediate-level web develop
 | 09  | [Dark Light Mode](https://github.com/alecodify/react-projects/tree/main/09-dark-light-mode)  |  [Details](https://github.com/alecodify/react-projects/blob/main/09-dark-light-mode/readme.md)      |
 | 10  | [Expense Tracker](https://github.com/alecodify/react-projects/tree/main/10-expense-tracker)  |  [Details](https://github.com/alecodify/react-projects/blob/main/10-expense-tracker/readme.md)      |
 | 11  | [Food](https://github.com/alecodify/react-projects/tree/main/11-food)  |  [Details](https://github.com/alecodify/react-projects/blob/main/11-food/readme.md)      |
+| 12  | [Food](https://github.com/alecodify/react-projects/tree/main/12-game-of-thrones)  |  [Details](https://github.com/alecodify/react-projects/blob/main/12-game-of-thrones/readme.md)      |
 
 
 ## Installation

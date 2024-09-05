@@ -15,12 +15,12 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
 ```bash
-  git clone https://github.com/alecodify/React-Projects.git
+  git clone https://github.com/alecodify/react-projects.git
 ```
 
 2. **Navigate to the project directory:**
 ```bash
-  cd React-Projects/03-birthday-reminder
+  cd react-projects/03-birthday-reminder
 ```
 
 3. **Install the dependencies:**

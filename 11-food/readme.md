@@ -15,12 +15,12 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
 ```bash
-  git clone https://github.com/alecodify/React-Projects.git
+  git clone https://github.com/alecodify/react-projects.git
 ```
 
 2. **Navigate to the project directory:**
 ```bash
-  cd React-Projects/11-food/client
+  cd react-projects/11-food/client
 ```
 
 3. **Install the dependencies:**
@@ -37,7 +37,7 @@ Once the server is running, you can access the application in your browser at ht
 
 5. **For Backend:**
 ```bash
-  cd React-Projects/11-food/server
+  cd react-projects/11-food/server
 ```
 
 6. **Install the dependencies:**

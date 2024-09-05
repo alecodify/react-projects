@@ -1,12 +1,14 @@
-# Game of Thrones
+# Grocery Bud
 
-This project allows users to show all characters from the popular TV show "Game of Thrones" using an external API. It demonstrates how to fetch data and display results in a user-friendly interface.
+This project is a simple yet practical application designed to help users manage their grocery shopping lists. Users can add items to the list, edit them if necessary, and remove them once they're no longer needed.
 
 ## Features
 
-- Show Game of Thrones characters image
-- On hover display character details including name, house, and nickname
-- User-friendly interface with responsive design
+- Add new grocery items to the list
+- Edit existing items in the list
+- Remove items from the list
+- Clear the entire list
+- Persistent storage of the list using localStorage
 
 
 ## Installation
@@ -20,7 +22,7 @@ To run this project locally, follow these steps:
 
 2. **Navigate to the project directory:**
 ```bash
-  cd react-projects/12-game-of-thrones
+  cd react-projects/15-grocery-bud
 ```
 
 3. **Install the dependencies:**
@@ -35,24 +37,8 @@ To run this project locally, follow these steps:
 
 Once the server is running, you can access the application in your browser at http://localhost:5173.
 
-5. **For Backend:**
-```bash
-  cd react-projects/12-game-of-thrones/server
-```
-
-6. **Install the dependencies:**
-```bash
-  npm install    
-```
-
-7. **Start the Backend**
-```bash
-  npm start
-```
-Open your browser and go to `http://localhost:3000` to see the application in action.
-
 ## Demo
-[Watch the demo video](https://github.com/user-attachments/assets/55f90b7a-37f3-4688-a86f-40ff7b8cab98)
+[Watch the demo video](https://github.com/user-attachments/assets/90c50984-24c8-41c6-ab09-af0fe6e714ac)
 
 
 ## Screenshots

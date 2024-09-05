@@ -17,12 +17,12 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
 ```bash
-  git clone https://github.com/alecodify/React-Projects.git
+  git clone https://github.com/alecodify/react-projects.git
 ```
 
 2. **Navigate to the project directory:**
 ```bash
-  cd React-Projects/04-cart
+  cd react-projects/04-cart
 ```
 
 3. **Install the dependencies:**

@@ -193,7 +193,7 @@ main {
   .l-shape {
     position: absolute;
     background-color: var(--clr-red-special);
-    bottom: 180px !important;
-    right: 2px !important; 
+    bottom: -20px !important;
+    right: -18px !important; 
   }
 }

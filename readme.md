@@ -7,8 +7,8 @@ This repository contains a variety of beginner-to-intermediate-level web develop
 40 mini web projects list
 |  #  | Project                                                                                                                     | Readme                                                                                                                     |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 01  | [Anime](https://github.com/alecodify/react-projects/tree/main/01-anime)  |  [Details](https://github.com/alecodify/react-projects/blob/main/01-anime/Readme.md)      |
-| 02  | [Accordion](https://github.com/alecodify/react-projects/tree/main/02-accordion)  |  [Details](https://github.com/alecodify/react-projects/blob/main/02-accordion/Readme.md)      |
+| 01  | [Anime](https://github.com/alecodify/react-projects/tree/main/01-anime)  |  [Details](https://github.com/alecodify/react-projects/blob/main/01-anime/readme.md)      |
+| 02  | [Accordion](https://github.com/alecodify/react-projects/tree/main/02-accordion)  |  [Details](https://github.com/alecodify/react-projects/blob/main/02-accordion/readme.md)      |
 | 03  | [Birthday Reminder](https://github.com/alecodify/react-projects/tree/main/03-birthday-reminder)  |  [Details](https://github.com/alecodify/react-projects/blob/main/03-birthday-reminder/readme.md)      |
 | 04  | [Cart](https://github.com/alecodify/react-projects/tree/main/04-cart)  |  [Details](https://github.com/alecodify/react-projects/blob/main/04-cart/readme.md)      |
 | 05  | [Counter](https://github.com/alecodify/react-projects/tree/main/05-counter)  |  [Details](https://github.com/alecodify/react-projects/blob/main/05-counter/readme.md)      |
@@ -20,6 +20,7 @@ This repository contains a variety of beginner-to-intermediate-level web develop
 | 11  | [Food](https://github.com/alecodify/react-projects/tree/main/11-food)  |  [Details](https://github.com/alecodify/react-projects/blob/main/11-food/readme.md)      |
 | 12  | [Game of Thrones](https://github.com/alecodify/react-projects/tree/main/12-game-of-thrones)  |  [Details](https://github.com/alecodify/react-projects/blob/main/12-game-of-thrones/readme.md)      |
 | 13  | [Github Repo Search](https://github.com/alecodify/react-projects/tree/main/13-github-repo-search)  |  [Details](https://github.com/alecodify/react-projects/blob/main/13-github-repo-search/readme.md)      |
+| 14  | [Google Keep Clone](https://github.com/alecodify/react-projects/tree/main/14-google-keep-clone)  |  [Details](https://github.com/alecodify/react-projects/blob/main/14-google-keep-clone/readme.md)      |
 
 ## Installation
 

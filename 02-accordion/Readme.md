@@ -13,12 +13,12 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
 ```bash
-  git clone https://github.com/alecodify/React-Projects.git
+  git clone https://github.com/alecodify/react-projects.git
 ```
 
 2. **Navigate to the project directory:**
 ```bash
-  cd React-Projects/02-accordion
+  cd react-projects/02-accordion
 ```
 
 3. **Install the dependencies:**
@@ -33,5 +33,19 @@ To run this project locally, follow these steps:
 
 Once the server is running, you can access the application in your browser at http://localhost:5173.
 
+## Demo
+[Watch the demo video](https://github.com/user-attachments/assets/f6db1f7f-9f85-424c-9041-095e860d714e)
+
+## Screenshots
+<img src="./screenshots/1.png" width=100%>
+<img src="./screenshots/2.png" width=100%>
+<div style="display: flex; flex-direction: 'row';">
+<img src="./screenshots/3.jpg" width=30%>
+<img src="./screenshots/4.jpg" width=30%>
+</div>
+
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Contact
+For any questions or issues, please reach out to imaliraza10@gmail.com

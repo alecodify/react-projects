@@ -29,6 +29,9 @@ This repository contains a variety of beginner-to-intermediate-level web develop
 | 20  | [Menu](https://github.com/alecodify/react-projects/tree/main/20-menu)  |  [Details](https://github.com/alecodify/react-projects/blob/main/20-menu/readme.md)      |
 | 21  | [Navigation](https://github.com/alecodify/react-projects/tree/main/21-navigation)  |  [Details](https://github.com/alecodify/react-projects/blob/main/21-navigation/readme.md)      |
 | 22  | [Pagination](https://github.com/alecodify/react-projects/tree/main/22-pagination)  |  [Details](https://github.com/alecodify/react-projects/blob/main/22-pagination/readme.md)      |
+| 23  | [Path Finding Visualizer](https://github.com/alecodify/react-projects/tree/main/23-path-finding-visualizer)  |  [Details](https://github.com/alecodify/react-projects/blob/main/23-path-finding-visualizer/readme.md)      |
+| 24  | [Quiz](https://github.com/alecodify/react-projects/tree/main/24-quiz)  |  [Details](https://github.com/alecodify/react-projects/blob/main/24-quiz/readme.md)      |
+| 25  | [Random User API](https://github.com/alecodify/react-projects/tree/main/25-random-user-api)  |  [Details](https://github.com/alecodify/react-projects/blob/main/25-random-user-api/readme.md)      |
 
 ## Installation
 

@@ -32,6 +32,11 @@ This repository contains a variety of beginner-to-intermediate-level web develop
 | 23  | [Path Finding Visualizer](https://github.com/alecodify/react-projects/tree/main/23-path-finding-visualizer)  |  [Details](https://github.com/alecodify/react-projects/blob/main/23-path-finding-visualizer/readme.md)      |
 | 24  | [Quiz](https://github.com/alecodify/react-projects/tree/main/24-quiz)  |  [Details](https://github.com/alecodify/react-projects/blob/main/24-quiz/readme.md)      |
 | 25  | [Random User API](https://github.com/alecodify/react-projects/tree/main/25-random-user-api)  |  [Details](https://github.com/alecodify/react-projects/blob/main/25-random-user-api/readme.md)      |
+| 26  | [Recipe Finder](https://github.com/alecodify/react-projects/tree/main/26-recipe-finder)  |  [Details](https://github.com/alecodify/react-projects/blob/main/26-recipe-finder/readme.md)      |
+| 27  | [Reddit Memes](https://github.com/alecodify/react-projects/tree/main/27-reddit-memes)  |  [Details](https://github.com/alecodify/react-projects/blob/main/27-reddit-memes/readme.md)      |
+| 28  | [Roll Dice](https://github.com/alecodify/react-projects/tree/main/28-roll-dice)  |  [Details](https://github.com/alecodify/react-projects/blob/main/28-roll-dice/readme.md)      |
+| 29  | [Slider](https://github.com/alecodify/react-projects/tree/main/29-slider)  |  [Details](https://github.com/alecodify/react-projects/blob/main/29-slider/readme.md)      |
+| 30  | [Tabs](https://github.com/alecodify/react-projects/tree/main/30-tabs)  |  [Details](https://github.com/alecodify/react-projects/blob/main/30-tabs/readme.md)      |
 
 ## Installation
 

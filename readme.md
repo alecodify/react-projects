@@ -41,6 +41,8 @@ This repository contains a variety of beginner-to-intermediate-level web develop
 | 32  | [Todo](https://github.com/alecodify/react-projects/tree/main/32-todo)  |  [Details](https://github.com/alecodify/react-projects/blob/main/32-todo/readme.md)      |
 | 33  | [Tours](https://github.com/alecodify/react-projects/tree/main/33-tours)  |  [Details](https://github.com/alecodify/react-projects/blob/main/33-tours/readme.md)      |
 | 34  | [Ecommerce](https://github.com/alecodify/react-projects/tree/main/34-ecommerce)  |  [Details](https://github.com/alecodify/react-projects/blob/main/34-ecommerce/readme.md)      |
+| 35  | [Employee Management System](https://github.com/alecodify/react-projects/tree/main/35-employee-managament-system)  |  [Details](https://github.com/alecodify/react-projects/blob/main/35-employee-managament-system/readme.md)      |
+| 36  | [Transaction](https://github.com/alecodify/react-projects/tree/main/36-transaction)  |  [Details](https://github.com/alecodify/react-projects/blob/main/36-transaction/readme.md)      |
 
 ## Installation
 

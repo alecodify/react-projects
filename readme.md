@@ -38,6 +38,9 @@ This repository contains a variety of beginner-to-intermediate-level web develop
 | 29  | [Slider](https://github.com/alecodify/react-projects/tree/main/29-slider)  |  [Details](https://github.com/alecodify/react-projects/blob/main/29-slider/readme.md)      |
 | 30  | [Tabs](https://github.com/alecodify/react-projects/tree/main/30-tabs)  |  [Details](https://github.com/alecodify/react-projects/blob/main/30-tabs/readme.md)      |
 | 31  | [Tic Tac Toe](https://github.com/alecodify/react-projects/tree/main/31-tic-tac-toe)  |  [Details](https://github.com/alecodify/react-projects/blob/main/31-tic-tac-toe/readme.md)      |
+| 32  | [Todo](https://github.com/alecodify/react-projects/tree/main/32-todo)  |  [Details](https://github.com/alecodify/react-projects/blob/main/32-todo/readme.md)      |
+| 33  | [Tours](https://github.com/alecodify/react-projects/tree/main/33-tours)  |  [Details](https://github.com/alecodify/react-projects/blob/main/33-tours/readme.md)      |
+| 34  | [Ecommerce](https://github.com/alecodify/react-projects/tree/main/34-ecommerce)  |  [Details](https://github.com/alecodify/react-projects/blob/main/34-ecommerce/readme.md)      |
 
 ## Installation
 

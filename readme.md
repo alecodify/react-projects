@@ -43,6 +43,8 @@ This repository contains a variety of beginner-to-intermediate-level web develop
 | 34  | [Ecommerce](https://github.com/alecodify/react-projects/tree/main/34-ecommerce)  |  [Details](https://github.com/alecodify/react-projects/blob/main/34-ecommerce/readme.md)      |
 | 35  | [Employee Management System](https://github.com/alecodify/react-projects/tree/main/35-employee-managament-system)  |  [Details](https://github.com/alecodify/react-projects/blob/main/35-employee-managament-system/readme.md)      |
 | 36  | [Transaction](https://github.com/alecodify/react-projects/tree/main/36-transaction)  |  [Details](https://github.com/alecodify/react-projects/blob/main/36-transaction/readme.md)      |
+| 37  | [Hoobank](https://github.com/alecodify/react-projects/tree/main/37-hoobank)  |  [Details](https://github.com/alecodify/react-projects/blob/main/37-hoobank/readme.md)      |
+| 38  | [IMDB Clone](https://github.com/alecodify/react-projects/tree/main/38-imdb-clone)  |  [Details](https://github.com/alecodify/react-projects/blob/main/38-imdb-clone/readme.md)      |
 
 ## Installation
 
